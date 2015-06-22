@@ -20,7 +20,9 @@ public enum ActionsEnum {
 
     THIRD("thirdstep", "FOURTH"),
 
-    FOURTH("fourthstep", "FINAL"),
+    FOURTH("fourthstep", "FIVETH"),
+
+    FIVETH("publishEvent", "FINAL"),
 
     FINAL("", "");
 
